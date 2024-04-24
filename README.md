@@ -1,5 +1,3 @@
-Certainly! Below is a template for a GitHub README file tailored to your project "Job Recruitment and HR Performance", which includes a dashboard:
-
 ---
 
 # Job Recruitment and HR Performance
